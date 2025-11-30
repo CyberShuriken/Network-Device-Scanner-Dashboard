@@ -37,8 +37,8 @@ It automatically:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/network-scanner.git
-    cd network-scanner
+    git clone https://github.com/CyberShuriken/Network-Device-Scanner-Dashboard.git
+    cd Network-Device-Scanner-Dashboard
     ```
 
 2.  **Install dependencies**:
@@ -74,3 +74,4 @@ It automatically:
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
