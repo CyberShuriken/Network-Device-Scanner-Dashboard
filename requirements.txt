@@ -1,0 +1,4 @@
+flask
+scapy
+mac-vendor-lookup
+requests
